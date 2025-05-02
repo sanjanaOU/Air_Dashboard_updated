@@ -1,5 +1,7 @@
 # Information Visualization Project
  ### Air Quality Explorer
+ #### LINK TO THE DEPLOYED PROJECT https://air-dashboard-updated.vercel.app/
+ 
 
 This project is an interactive data visualization dashboard built to analyze air pollution trends over time using real-world sensor data. It provides a visual and intuitive understanding of pollutant levels such as CO, NOx, Benzene, and more — alongside temperature and humidity.
 
